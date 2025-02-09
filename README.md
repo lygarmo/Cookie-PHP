@@ -28,7 +28,7 @@ verCookie.php → Recupera y muestra el valor de la cookie.
 
 Descarga o clona el repositorio:
 
-git clone https://github.com/tuusuario/cookies-php.git
+git clone https://github.com/lygarmo/Cookie-PHP/tree/main
 
 Coloca los archivos en un servidor con soporte PHP.
 
